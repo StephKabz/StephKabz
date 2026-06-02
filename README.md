@@ -32,12 +32,12 @@ I build things from scratch to understand how they really work. Currently transi
 
 | Project | What it is | Key concepts |
 |---|---|---|
-| **[webserv](https://github.com/StephKabz/webserv)** | HTTP/1.1 server from scratch, nginx-style config | I/O multiplexing, HTTP parsing, CGI |
-| **[cub3D](https://github.com/StephKabz/cub3D)** | Raycasting 3D engine inspired by Wolfenstein | Linear algebra, textures, collision detection |
-| **[Philosophers](https://github.com/StephKabz/philosophers)** | Dining philosophers problem solved with threads | Mutex, race conditions, deadlock prevention |
-| **[Minishell](https://github.com/StephKabz/minishell)** | A bash-like shell in C | Parsing, pipes, signals, process management |
-| **[C++ Modules](https://github.com/StephKabz/cpp-modules)** | 10 modules from OOP basics to STL & templates | RAII, polymorphism, templates, Ford-Johnson sort |
-| **[NetPractice](https://github.com/StephKabz/netpractice)** | Hands-on networking exercises | Subnetting, routing, TCP/IP |
+| **[webserv](https://github.com/StephKabz/WEBSERV)** | HTTP/1.1 server from scratch, nginx-style config | I/O multiplexing, HTTP parsing, CGI |
+| **[cub3D](https://github.com/StephKabz/Cub3D)** | Raycasting 3D engine inspired by Wolfenstein | Linear algebra, textures, collision detection |
+| **[Philosophers](https://github.com/StephKabz/Philosophers)** | Dining philosophers problem solved with threads | Mutex, race conditions, deadlock prevention |
+| **[Minishell](https://github.com/StephKabz/Minishell)** | A bash-like shell in C | Parsing, pipes, signals, process management |
+| **[C++ Modules](https://github.com/StephKabz/CPP_module_09)** | 10 modules from OOP basics to STL & templates | RAII, polymorphism, templates, Ford-Johnson sort |
+| **[NetPractice]** | Hands-on networking exercises | Subnetting, routing, TCP/IP |
 
 ---
 

@@ -43,7 +43,7 @@ I build things from scratch to understand how they really work. Currently transi
 
 ### 📖 A bit about my path
 
-I'm training at **École 42 Brussels** — a peer-to-peer software engineering program built around real projects rather than lectures. The curriculum has taken me from C fundamentals to building a Unix shell, a multithreaded simulation, a 3D engine, and a full HTTP server from scratch.
+I'm training at **École 42 Belgium** — a peer-to-peer software engineering program built around real projects rather than lectures. The curriculum has taken me from C fundamentals to building a Unix shell, a multithreaded simulation, a 3D engine, and a full HTTP server from scratch.
 
 My goal is to bridge low-level systems understanding with cloud-native architecture — the kind of engineer who knows *why* a distributed system behaves the way it does, not just how to configure it.
 
@@ -51,7 +51,7 @@ My goal is to bridge low-level systems understanding with cloud-native architect
 
 ### 📫 Reach out
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-handle)
+- 💼 [LinkedIn](https://www.linkedin.com/in/stephane-kabangu-3ba260348?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 - 📧 Open to internship discussions for Sept 2026
 - 📍 Based in Brussels, Belgium
 

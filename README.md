@@ -24,7 +24,7 @@ I build things from scratch to understand how they really work. Currently transi
 `Linux` `Git` `GDB` `Valgrind` `Make` `poll()` `pthreads`
 
 **Heading toward**
-`AWS` `Docker` `Terraform` `CI/CD` `Go`
+`AWS` `Docker` `Terraform` `CI/CD` `python`
 
 ---
 

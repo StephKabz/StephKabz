@@ -8,8 +8,9 @@ I build things from scratch to understand how they really work. Currently transi
 
 ### 🎯 What I'm focused on
 
-- 🔭 **Just shipped:** `webserv` — an HTTP/1.1 server in C++98 (config parsing & request handling)
-- 🌱 **Currently learning:** C++17/20/23 modern features, AWS fundamentals, Docker
+- 🔭 **Just shipped:** `Inception` — a multi-container Docker infrastructure (NGINX + WordPress + MariaDB) with TLS, on a Debian VM
+- 🛠️ **Also recently built:** `webserv` — an HTTP/1.1 server in C++98 (config parsing & request handling)
+- 🌱 **Currently learning:** Python for cloud/DevOps, AWS fundamentals, CI/CD pipelines
 - 🎓 **Looking for:** a **6-month cloud / software engineering internship starting September 2026** in **Belgium 🇧🇪**
 - 📜 **Next milestone:** AWS Solutions Architect Associate (Aug 2026)
 
@@ -21,10 +22,13 @@ I build things from scratch to understand how they really work. Currently transi
 `C` `C++` `Bash` `Python` (learning) `TypeScript` (learning)
 
 **Systems & Tools**
-`Linux` `Git` `GDB` `Valgrind` `Make` `poll()` `pthreads`
+`Linux` `Docker` `Git` `GDB` `Valgrind` `Make` `poll()` `pthreads`
+
+**Infrastructure**
+`Docker Compose` `NGINX` `MariaDB` `TLS/SSL` `Debian`
 
 **Heading toward**
-`AWS` `Docker` `Terraform` `CI/CD` `python`
+`AWS` `Terraform` `CI/CD` `GitHub Actions` `Kubernetes`
 
 ---
 
@@ -32,18 +36,19 @@ I build things from scratch to understand how they really work. Currently transi
 
 | Project | What it is | Key concepts |
 |---|---|---|
+| **[Inception](https://github.com/StephKabz/Inception)** | Multi-container Docker infrastructure with NGINX, WordPress/PHP-FPM & MariaDB | Docker, Docker Compose, TLS, volumes, isolated networks |
 | **[webserv](https://github.com/StephKabz/WEBSERV)** | HTTP/1.1 server from scratch, nginx-style config | I/O multiplexing, HTTP parsing, CGI |
 | **[cub3D](https://github.com/StephKabz/Cub3D)** | Raycasting 3D engine inspired by Wolfenstein | Linear algebra, textures, collision detection |
 | **[Philosophers](https://github.com/StephKabz/Philosophers)** | Dining philosophers problem solved with threads | Mutex, race conditions, deadlock prevention |
 | **[Minishell](https://github.com/StephKabz/Minishell)** | A bash-like shell in C | Parsing, pipes, signals, process management |
 | **[C++ Modules](https://github.com/StephKabz/CPP_module_09)** | 10 modules from OOP basics to STL & templates | RAII, polymorphism, templates, Ford-Johnson sort |
-| **[NetPractice]** | Hands-on networking exercises | Subnetting, routing, TCP/IP |
+| **NetPractice** | Hands-on networking exercises | Subnetting, routing, TCP/IP |
 
 ---
 
 ### 📖 A bit about my path
 
-I'm training at **École 42 Belgium** — a peer-to-peer software engineering program built around real projects rather than lectures. The curriculum has taken me from C fundamentals to building a Unix shell, a multithreaded simulation, a 3D engine, and a full HTTP server from scratch.
+I'm training at **École 42 Belgium** — a peer-to-peer software engineering program built around real projects rather than lectures. The curriculum has taken me from C fundamentals to building a Unix shell, a multithreaded simulation, a 3D engine, a full HTTP server, and a containerized infrastructure — each project stripping away another layer of abstraction.
 
 My goal is to bridge low-level systems understanding with cloud-native architecture — the kind of engineer who knows *why* a distributed system behaves the way it does, not just how to configure it.
 
